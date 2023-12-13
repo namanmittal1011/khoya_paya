@@ -1,0 +1,76 @@
+.finger2-2-icon5 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1701px;
+  height: 1092px;
+  object-fit: cover;
+}
+.recognition3 {
+  position: absolute;
+  top: 74px;
+  left: 53px;
+  display: inline-block;
+  width: 379px;
+  height: 55px;
+}
+.recognition-page-child {
+  position: absolute;
+  top: 174px;
+  left: 0px;
+  width: 1650px;
+  height: 9px;
+}
+.recognition-page-item {
+  position: absolute;
+  top: 267px;
+  left: 135px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  width: 1448px;
+  height: 698px;
+  opacity: 0.5;
+}
+.press-your-thumb {
+  margin: 0;
+}
+.follow-the-procedure-container1 {
+  position: absolute;
+  top: 850px;
+  left: 268px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 1083px;
+  height: 115px;
+}
+.reorder-icon6 {
+  position: absolute;
+  top: 67px;
+  left: 1534px;
+  width: 56px;
+  height: 69px;
+  overflow: hidden;
+}
+.recognition-page-inner {
+  position: absolute;
+  top: 326px;
+  left: 0px;
+  width: 1709px;
+  height: 472px;
+  object-fit: cover;
+  mix-blend-mode: linear-dodge;
+}
+.recognition-page {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url("./public/history@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-copse);
+}

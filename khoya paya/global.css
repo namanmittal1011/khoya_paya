@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-chivo: Chivo;
+  --font-copse: Copse;
+  --font-corben: Corben;
+  --font-courier-prime: "Courier Prime";
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-41xl: 60px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-29xl: 48px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-steelblue-100: #1f6e8c;
+  --color-black: #000;
+  --color-gray-100: #1e1e1e;
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-xl: 20px;
+}

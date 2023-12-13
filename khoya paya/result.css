@@ -1,0 +1,65 @@
+.finger2-2-icon3 {
+  position: absolute;
+  top: -47px;
+  left: -41px;
+  width: 1701px;
+  height: 1092px;
+  object-fit: cover;
+}
+.result-child {
+  position: absolute;
+  top: 178px;
+  left: -30px;
+  width: 1680px;
+  height: 5px;
+  object-fit: cover;
+}
+.result-item {
+  position: absolute;
+  top: 267px;
+  left: 93px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  width: 1448px;
+  height: 698px;
+  opacity: 0.5;
+}
+.reorder-icon4 {
+  position: absolute;
+  top: 67px;
+  left: 1534px;
+  width: 56px;
+  height: 69px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.data {
+  position: absolute;
+  top: 74px;
+  left: 53px;
+  display: inline-block;
+  width: 379px;
+  height: 55px;
+}
+.result-inner {
+  position: absolute;
+  top: 336px;
+  left: 147px;
+  width: 1316px;
+  height: 575px;
+  object-fit: cover;
+}
+.result {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url("./public/history@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-copse);
+}

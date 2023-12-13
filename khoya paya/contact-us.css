@@ -1,0 +1,217 @@
+.finger2-2-icon7 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1701px;
+  height: 1092px;
+  object-fit: cover;
+}
+.emblem-of-india-1-icon {
+  position: absolute;
+  top: 48px;
+  left: 1339px;
+  width: 96px;
+  height: 129px;
+  overflow: hidden;
+}
+.khoya-paaya2 {
+  position: absolute;
+  top: 70px;
+  left: 260px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 969px;
+  height: 85px;
+}
+.contact-us-child {
+  position: absolute;
+  top: 29px;
+  left: 20px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue-100);
+  width: 166px;
+  height: 134px;
+  opacity: 0.5;
+}
+.logo2 {
+  position: absolute;
+  top: 67px;
+  left: 48px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 110px;
+  height: 65px;
+}
+.contact-us-item {
+  position: absolute;
+  top: 278px;
+  left: 0px;
+  width: 1660px;
+  height: 9px;
+}
+.about-us {
+  position: absolute;
+  top: 227px;
+  left: 241px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 184px;
+  height: 55px;
+}
+.contact-us1 {
+  position: absolute;
+  top: 227px;
+  left: 1360px;
+  display: inline-block;
+  width: 199px;
+  height: 55px;
+}
+.procedure {
+  position: absolute;
+  top: 227px;
+  left: 512px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 194px;
+  height: 55px;
+}
+.recognition6 {
+  position: absolute;
+  top: 227px;
+  left: 809px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 230px;
+  height: 55px;
+}
+.ngo {
+  position: absolute;
+  top: 227px;
+  left: 1155px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 184px;
+  height: 55px;
+}
+.contact-us-inner {
+  position: absolute;
+  top: 43px;
+  left: 1494px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  width: 150px;
+  height: 69px;
+  opacity: 0.6;
+}
+.log-in {
+  position: absolute;
+  top: 50px;
+  left: 1508px;
+  display: inline-block;
+  width: 199px;
+  height: 55px;
+}
+.contact-us-child1 {
+  position: absolute;
+  top: 342px;
+  left: 249px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  width: 940px;
+  height: 614px;
+  opacity: 0.5;
+}
+.khan-market-delhi {
+  position: absolute;
+  top: 849px;
+  left: 294px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-courier-prime);
+  display: inline-block;
+  width: 539px;
+  height: 66px;
+}
+.address {
+  position: absolute;
+  top: 785px;
+  left: 294px;
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 179px;
+  height: 44px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.xxxxxxxxxx {
+  position: absolute;
+  top: 699px;
+  left: 291px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-courier-prime);
+  display: inline-block;
+  width: 539px;
+  height: 66px;
+}
+.contact-us2 {
+  position: absolute;
+  top: 627px;
+  left: 291px;
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 179px;
+  height: 44px;
+}
+.email {
+  position: absolute;
+  top: 471px;
+  left: 294px;
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+  display: inline-block;
+  width: 115px;
+  height: 44px;
+}
+.khoyapaayaxyzcom {
+  position: absolute;
+  top: 525px;
+  left: 291px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-courier-prime);
+  display: inline-block;
+  width: 539px;
+  height: 66px;
+}
+.for-any-query {
+  position: absolute;
+  top: 380px;
+  left: 276px;
+  font-size: var(--font-size-17xl);
+  text-decoration: underline;
+  display: inline-block;
+  font-family: var(--font-courier-prime);
+  width: 323px;
+  height: 61px;
+}
+.home-icon {
+  position: absolute;
+  top: 201px;
+  left: 55px;
+  width: 83px;
+  height: 81px;
+  overflow: hidden;
+}
+.contact-us {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url("./public/history@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-copse);
+}

@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "khoya paya",
+    "id": "656ce194c1d3d00718c8bcd0",
+    "framework": "html-css",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "c:\\Users\\naman\\OneDrive\\Documents\\khoya paya\\src\\components",
+    "screensPath": "c:\\Users\\naman\\OneDrive\\Documents\\khoya paya\\src\\pages",
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case"
+  }
+}

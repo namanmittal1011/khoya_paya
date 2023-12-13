@@ -1,0 +1,119 @@
+.finger2-2-icon2 {
+  position: absolute;
+  top: -47px;
+  left: -41px;
+  width: 1701px;
+  height: 1092px;
+  object-fit: cover;
+}
+.profile-child {
+  position: absolute;
+  top: 75px;
+  left: 0px;
+  background-color: var(--color-steelblue-100);
+  width: 1660px;
+  height: 165px;
+}
+.reorder-icon3 {
+  position: absolute;
+  top: 113px;
+  left: 1563px;
+  width: 56px;
+  height: 69px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.khoya-paaya1 {
+  position: absolute;
+  top: 126px;
+  left: 650px;
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  width: 969px;
+  height: 85px;
+}
+.profile-item {
+  position: absolute;
+  top: 96px;
+  left: 20px;
+  border-radius: 50%;
+  background-color: var(--color-gray-100);
+  width: 166px;
+  height: 134px;
+  opacity: 0.5;
+}
+.logo1 {
+  position: absolute;
+  top: 143px;
+  left: 48px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 110px;
+  height: 65px;
+}
+.profile-inner {
+  position: absolute;
+  top: 345px;
+  left: 206px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  width: 1248px;
+  height: 594px;
+  opacity: 0.5;
+}
+.designation {
+  position: absolute;
+  top: 597px;
+  left: 450px;
+  display: inline-block;
+  width: 599px;
+  height: 86px;
+}
+.name {
+  position: absolute;
+  top: 470px;
+  left: 450px;
+  display: inline-block;
+  width: 599px;
+  height: 86px;
+}
+.person-icon1 {
+  position: absolute;
+  top: 441px;
+  left: 287px;
+  width: 114px;
+  height: 115px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.name1 {
+  position: absolute;
+  top: 472px;
+  left: 450px;
+  display: inline-block;
+  width: 599px;
+  height: 86px;
+}
+.user-id {
+  position: absolute;
+  top: 722px;
+  left: 450px;
+  display: inline-block;
+  width: 599px;
+  height: 86px;
+}
+.profile1 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url("./public/history@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-chivo);
+}

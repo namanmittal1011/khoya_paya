@@ -1,0 +1,155 @@
+.finger2-2-icon11 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1701px;
+  height: 1092px;
+  object-fit: cover;
+}
+.emblem-of-india-1-icon4 {
+  position: absolute;
+  top: 48px;
+  left: 1339px;
+  width: 96px;
+  height: 129px;
+  overflow: hidden;
+}
+.khoya-paaya6 {
+  position: absolute;
+  top: 70px;
+  left: 260px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 969px;
+  height: 85px;
+}
+.about-us-child {
+  position: absolute;
+  top: 29px;
+  left: 20px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue-100);
+  width: 166px;
+  height: 134px;
+  opacity: 0.5;
+}
+.logo6 {
+  position: absolute;
+  top: 67px;
+  left: 48px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 110px;
+  height: 65px;
+}
+.about-us-item {
+  position: absolute;
+  top: 278px;
+  left: 0px;
+  width: 1660px;
+  height: 9px;
+}
+.about-us5 {
+  position: absolute;
+  top: 227px;
+  left: 241px;
+  display: inline-block;
+  width: 184px;
+  height: 55px;
+}
+.contact-us6 {
+  position: absolute;
+  top: 227px;
+  left: 1360px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 199px;
+  height: 55px;
+}
+.procedure5 {
+  position: absolute;
+  top: 227px;
+  left: 512px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 194px;
+  height: 55px;
+}
+.recognition11 {
+  position: absolute;
+  top: 227px;
+  left: 809px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 230px;
+  height: 55px;
+}
+.ngo5 {
+  position: absolute;
+  top: 227px;
+  left: 1155px;
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 184px;
+  height: 55px;
+}
+.about-us-inner {
+  position: absolute;
+  top: 43px;
+  left: 1494px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  width: 150px;
+  height: 69px;
+  opacity: 0.6;
+}
+.log-in4 {
+  position: absolute;
+  top: 50px;
+  left: 1508px;
+  display: inline-block;
+  width: 199px;
+  height: 55px;
+}
+.home-icon5 {
+  position: absolute;
+  top: 201px;
+  left: 71px;
+  width: 83px;
+  height: 81px;
+  overflow: hidden;
+}
+.about-us-child1 {
+  position: absolute;
+  top: 337px;
+  left: 1060px;
+  width: 499px;
+  height: 630px;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 382px;
+  left: 116px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 718px;
+  height: 311px;
+}
+.about-us4 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url("./public/history@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-copse);
+}

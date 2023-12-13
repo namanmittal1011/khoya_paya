@@ -1,0 +1,242 @@
+.finger2-2-icon1 {
+  position: absolute;
+  top: -47px;
+  left: -41px;
+  width: 1701px;
+  height: 1092px;
+  object-fit: cover;
+}
+.recognition {
+  position: absolute;
+  top: 74px;
+  left: 53px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 379px;
+  height: 55px;
+}
+.drop-down-box-child {
+  position: absolute;
+  top: 178px;
+  left: -30px;
+  width: 1680px;
+  height: 5px;
+  object-fit: cover;
+}
+.drop-down-box-item {
+  position: absolute;
+  top: 267px;
+  left: 135px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  width: 538px;
+  height: 698px;
+  opacity: 0.5;
+}
+.fingerprint-icon {
+  position: absolute;
+  top: 481px;
+  left: 280px;
+  width: 248px;
+  height: 270px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.drop-down-box-inner {
+  position: absolute;
+  top: 267px;
+  left: 996px;
+  border-radius: var(--br-xl);
+  background-color: rgba(31, 110, 140, 0.5);
+  width: 538px;
+  height: 698px;
+  opacity: 0.5;
+}
+.drop-down-box-child1 {
+  position: absolute;
+  top: 835px;
+  left: 1184px;
+  border-radius: var(--br-xl);
+  width: 161px;
+  height: 57px;
+  object-fit: cover;
+}
+.select {
+  position: absolute;
+  top: 829px;
+  left: 1217px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-corben);
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 201px;
+  height: 70px;
+}
+.insert-emoticon {
+  position: absolute;
+  top: 481px;
+  left: 1093px;
+  width: 343px;
+  height: 321px;
+  overflow: hidden;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.face {
+  margin: 0;
+}
+.face-detection {
+  position: absolute;
+  top: 301px;
+  left: 1151px;
+  font-size: var(--font-size-29xl);
+  color: rgba(255, 255, 255, 0.3);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 509px;
+  height: 76px;
+}
+.reorder-icon1 {
+  position: absolute;
+  top: 67px;
+  left: 1534px;
+  width: 56px;
+  height: 69px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.fingerprint-recognition {
+  position: absolute;
+  top: 301px;
+  left: 257px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  width: 509px;
+  height: 76px;
+}
+.drop-down-box-child2 {
+  position: absolute;
+  top: 835px;
+  left: 323px;
+  border-radius: var(--br-xl);
+  width: 161px;
+  height: 57px;
+  object-fit: cover;
+}
+.select1 {
+  position: absolute;
+  top: 829px;
+  left: 357px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-corben);
+  color: var(--color-steelblue-100);
+  display: inline-block;
+  width: 201px;
+  height: 70px;
+}
+.drop-down-box-child3 {
+  position: absolute;
+  top: 49px;
+  left: 1166px;
+  border-radius: var(--br-xl);
+  background-color: rgba(31, 110, 140, 0.9);
+  width: 463px;
+  height: 432px;
+}
+.vector-icon {
+  position: relative;
+  width: 45px;
+  height: 46px;
+  object-fit: cover;
+  z-index: 0;
+}
+.vector-icon1 {
+  position: absolute;
+  margin: 0 !important;
+  height: 75%;
+  width: 84.67%;
+  top: 12.39%;
+  right: 8.22%;
+  bottom: 12.61%;
+  left: 7.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.history1 {
+  position: absolute;
+  top: 262px;
+  left: 1184px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.history2 {
+  position: absolute;
+  top: 262px;
+  left: 1250px;
+  display: inline-block;
+  width: 379px;
+  height: 55px;
+}
+.log-out {
+  position: absolute;
+  top: 345px;
+  left: 1247px;
+  display: inline-block;
+  width: 379px;
+  height: 55px;
+}
+.profile {
+  position: absolute;
+  top: 172px;
+  left: 1250px;
+  display: inline-block;
+  width: 379px;
+  height: 55px;
+}
+.div {
+  position: absolute;
+  top: 348px;
+  left: 1187px;
+  display: inline-block;
+  width: 46px;
+  height: 44px;
+}
+.arrow-right-alt-icon {
+  position: absolute;
+  top: 351px;
+  left: 1191px;
+  width: 34px;
+  height: 38px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.person-icon {
+  position: absolute;
+  top: 172px;
+  left: 1194px;
+  width: 39px;
+  height: 39px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.drop-down-box {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url("./public/history@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-copse);
+}
